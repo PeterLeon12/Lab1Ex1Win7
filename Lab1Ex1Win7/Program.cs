@@ -4,7 +4,7 @@
 
 
 
-.WriteLine("Introduceti latimea");
+Console.WriteLine("Introduceti latimea");
 int latime = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Introduceti inaltimea");
